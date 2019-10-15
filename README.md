@@ -1,5 +1,7 @@
 # todo-vue
 
+![todothing](public/todothing.png)
+
 ## Project setup
 ```
 yarn install
